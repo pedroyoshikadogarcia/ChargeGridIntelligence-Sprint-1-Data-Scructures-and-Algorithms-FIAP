@@ -7,11 +7,17 @@ O **ChargeGrid Intelligence** é uma plataforma focada no gerenciamento automati
 Funcionalidades
 
 **Início e Fim de Sessão:** Controle de fluxo básico de recarga.
+
 **Diferenciação de Usuários:** Sistema que distingue usuários "Comuns" de "Premium".
+
 **Tarifação Dinâmica:** - Cálculo automático baseado no consumo (kWh).
+
   Desconto de 15% para usuários Premium.
+  
   Taxa de conveniência (R$ 5,00) para sessões rápidas (< 15 min), otimizando a rotatividade.
+  
 **Simulador de Progresso:** Feedback visual do carregamento via terminal.
+
 **Relatório Final:** Saída formatada com todos os dados da transação.
 
 # Equipe e Responsabilidades

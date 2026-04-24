@@ -3,8 +3,8 @@
  * DESCRIÇÃO: Simulador de Sessão de Recarga para Eletropostos Comerciais
  * * AUTORES:
  * - Pedro Garcia: Arquitetura, Variáveis e Gestão de Tarifas
- * - Lucas Klein: Lógica de Validação de Entrada (Do-While)
- * - Thiago: Implementação de I/O de Sessão (kWh e Tempo)
+ * - Thiago: Lógica de Validação de Entrada (Do-While)
+ * - Lucas Klein: Implementação de I/O de Sessão (kWh e Tempo)
  * - Rafael: Regras de Negócio e Cálculo de Descontos
  * - Pedro Andreassa: Simulação de Hardware e Formatação de Relatório
  ******************************************************************************/

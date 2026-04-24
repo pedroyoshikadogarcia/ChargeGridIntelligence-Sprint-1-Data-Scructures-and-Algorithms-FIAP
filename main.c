@@ -35,4 +35,11 @@ int main() {
             printf("[ERRO] Opcao invalida. Tente novamente.\n");
         }
     } while (tipoUsuario < 1 || tipoUsuario > 2);
+    
+    printf("\nIniciando sessao de recarga...\n");
+        printf("Quantos kWh deseja carregar? ");
+        scanf("%f", &kwhConsumido);
+        
+        printf("Tempo estimado de permanencia (minutos): ");
+        scanf("%d", &tempoMinutos);
 }

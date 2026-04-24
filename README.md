@@ -26,6 +26,6 @@ Funcionalidades
 | :--- | :--- |
 | **Pedro Garcia** | Arquitetura do Sistema, Variáveis e Gestão de Tarifas |
 | **Thiago** | Lógica de Validação e Controle de Fluxo (Do-While) |
-| **Lucas Klein** | Implementação de I/O de Sessão (kWh e Tempo) |
+| **Pedro Andreassa** | Implementação de I/O de Sessão (kWh e Tempo) |
 | **Rafael** | Regras de Negócio e Cálculo de Descontos |
-| **Pedro Andreassa** | Simulação de Hardware e Formatação de Relatório |
+| **Lucas Klein** | Simulação de Hardware e Formatação de Relatório |

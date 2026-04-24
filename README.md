@@ -25,7 +25,7 @@ Funcionalidades
 | Integrante | Responsabilidade Técnica |
 | :--- | :--- |
 | **Pedro Garcia** | Arquitetura do Sistema, Variáveis e Gestão de Tarifas |
-| **Lucas Klein** | Lógica de Validação e Controle de Fluxo (Do-While) |
-| **Thiago** | Implementação de I/O de Sessão (kWh e Tempo) |
+| **Thiago** | Lógica de Validação e Controle de Fluxo (Do-While) |
+| **Lucas Klein** | Implementação de I/O de Sessão (kWh e Tempo) |
 | **Rafael** | Regras de Negócio e Cálculo de Descontos |
 | **Pedro Andreassa** | Simulação de Hardware e Formatação de Relatório |

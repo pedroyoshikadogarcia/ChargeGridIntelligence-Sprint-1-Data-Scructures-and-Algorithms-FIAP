@@ -42,4 +42,20 @@ int main() {
         
         printf("Tempo estimado de permanencia (minutos): ");
         scanf("%d", &tempoMinutos);
+        
+        switch (tipoUsuario) {
+        case 1:
+            valorTotal = kwhConsumido * precoPorKwh;
+            break;
+        case 2:
+            valorTotal = (kwhConsumido * precoPorKwh) * 0.85; // 15% off
+            break;
+    }
+    
+    if (tempoMinutos < 15) {
+        valorTotal += 5.00;
+        printf("-> Aplicada taxa de ocupacao rapida: R$ 5,00\n");
+    }
+ 
+ 
 }

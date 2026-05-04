@@ -62,4 +62,19 @@ int main() {
             printf("...%d%% ", i * 33); 
         }
         printf("\nFinalizando...\n");
+
+    printf("       RELATORIO FINAL DE RECARGA         \n");
+    printf("Status da Sessao:  FINALIZADA COM SUCESSO\n");
+    printf("Usuario:           %s\n", (tipoUsuario == 1 ? "Comum" : "Premium (VIP)"));
+    printf("Energia Entregue:  %.2f kWh\n", kwhConsumido);
+    printf("Tempo de Sessao:   %d min\n", tempoMinutos);
+    printf("Preco por kWh:     R$ %.2f\n", precoPorKwh);
+    printf("------------------------------------------\n");
+    printf("VALOR TOTAL:       R$ %.2f\n", valorTotal);
+    printf("==========================================\n");
+    printf("ChargeGrid Intelligence - FIAP 2026\n\n");
+    printf("Pressione qualquer tecla para sair...");
+    scanf(" %c", &confirma);
+
+    return 0;
 }

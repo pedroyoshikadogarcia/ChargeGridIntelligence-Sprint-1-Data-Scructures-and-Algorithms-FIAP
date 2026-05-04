@@ -57,5 +57,9 @@ int main() {
         printf("-> Aplicada taxa de ocupacao rapida: R$ 5,00\n");
     }
  
- 
+    printf("\nProcessando carga: ");
+        for (int i = 0; i <= 3; i++) {
+            printf("...%d%% ", i * 33); 
+        }
+        printf("\nFinalizando...\n");
 }
